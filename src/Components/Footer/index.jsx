@@ -3,7 +3,7 @@ import './style.css'
 function Footer() {
     return (
         <>
-        <p id="Footer">Minha Prova</p>
+        <p id="Footer"></p>
         </>
     )
 }
